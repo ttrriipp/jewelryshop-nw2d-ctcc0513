@@ -1,2 +1,2 @@
 # GINTUAN NI LEMON 
-DA BEST JEWELRY SHOP WITH LINKED LIST AND STACK IMPLEMENTATION
+Java GUI Jewelry Shop with Linked List and Stack Implementation.
